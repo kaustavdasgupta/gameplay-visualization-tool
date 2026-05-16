@@ -1,0 +1,22 @@
+[
+  {
+    "user_id":"73616084-1001-4da2-89d9-76c59eaaefbd",
+    "match_id":"9b982ee6-e84b-4133-93f6-16725fca348f.nakama-0",
+    "map_id":"AmbroseValley",
+    "x":-140.9476776123,
+    "y":101.3184356689,
+    "z":-190.4599456787,
+    "ts":1770714123,
+    "event":"Position"
+  },
+  {
+    "user_id":"73616084-1001-4da2-89d9-76c59eaaefbd",
+    "match_id":"9b982ee6-e84b-4133-93f6-16725fca348f.nakama-0",
+    "map_id":"AmbroseValley",
+    "x":-140.9379882812,
+    "y":101.3184356689,
+    "z":-190.7779998779,
+    "ts":1770714198,
+    "event":"BotKilled"
+  }
+]
