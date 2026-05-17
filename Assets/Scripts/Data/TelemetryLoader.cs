@@ -14,10 +14,10 @@ public class TelemetryLoader : MonoBehaviour
 
         Debug.Log($"Loaded Events: {wrapper.events.Count}");
 
-        for (int i = 0; i < wrapper.events.Count; i++)
+        for (int i = 0; i < Mathf.Min(5, wrapper.events.Count); i++)
         {
             TelemetryEvent e = wrapper.events[i];
-            Debug.Log($"{e.eventType} | {e.x}, {e.z}");
+            //Debug.Log($"{e.eventType} | {e.x}, {e.z}");
         }
     }
 }
